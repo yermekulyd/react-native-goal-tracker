@@ -1,4 +1,4 @@
-# reactNative-goal-tracker
+# React-Native-Goal-Tracker
 
 Welcome to the Goal Tracker React Native application! This app is designed to help you track and set your goals efficiently. It covers various topics related to React Native development and provides a seamless user experience for managing your goals.
 
